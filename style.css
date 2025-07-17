@@ -3,6 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
 #wrapper{
     height: 100vh;
     overflow-y: auto;
@@ -34,6 +36,7 @@ h1{
     overflow: hidden;
 
 }
+
 img{
     width: 100%;
     filter: grayscale(100%);
